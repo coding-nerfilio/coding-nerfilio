@@ -24,9 +24,7 @@ I'm Francisco, a 20 year old developer from Uruguay.
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
-    <img src="">
-    <img src="">
-    <img src="">
+ 
  </p>
 
 ## ✅ Testing
@@ -43,7 +41,6 @@ I'm Francisco, a 20 year old developer from Uruguay.
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="">
 </p>
 
 ## 🎈 Hosting/SaaS
